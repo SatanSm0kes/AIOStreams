@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.23.1](https://github.com/Viren070/AIOStreams/compare/v2.23.0...v2.23.1) (2026-02-09)
+
+
+### Bug Fixes
+
+* compute PSE last after RSE ([c060fc6](https://github.com/Viren070/AIOStreams/commit/c060fc6337509b09ef93cb63b5e18f651d9b5627))
+* **frontend:** dont merge with existing user data upon login ([839e023](https://github.com/Viren070/AIOStreams/commit/839e023551626e24e0b6cb39007a04055d6d3539))
+* only assign nextAirDate when in future and correctly handle errors ([6e35979](https://github.com/Viren070/AIOStreams/commit/6e35979e1a7015d3dff9f70d63543f3015b62a18))
+
 ## [2.23.0](https://github.com/Viren070/AIOStreams/compare/v2.22.0...v2.23.0) (2026-02-09)
 
 
